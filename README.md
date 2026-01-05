@@ -1,7 +1,8 @@
-<a href="https://exams.guygregory.com"><img width="2217" height="1503" alt="image" src="https://github.com/user-attachments/assets/3aef88b7-aa2e-4d25-9d3b-b0d76bdd7766" /></a>
+# Exam Timeline
 
+[![Azure Static Web Apps CI/CD](https://github.com/steffanmartin/exam-timeline/actions/workflows/azure-static-web-apps-happy-sea-0e3ef5c03.yml/badge.svg)](https://github.com/steffanmartin/exam-timeline/actions/workflows/azure-static-web-apps-happy-sea-0e3ef5c03.yml)
 
-
+<a href="https://exams.guygregory.com"><img width="1330" height="902" alt="image" src="https://github.com/user-attachments/assets/3aef88b7-aa2e-4d25-9d3b-b0d76bdd7766" /></a>
 
 A [web application](https://exams.guygregory.com) that automatically tracks and visualizes certification progress over time using data from Microsoft Learn public transcripts and Credly digital badges.
 
